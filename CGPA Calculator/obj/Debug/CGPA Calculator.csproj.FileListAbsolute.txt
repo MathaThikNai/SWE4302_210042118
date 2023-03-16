@@ -1,0 +1,11 @@
+E:\Project\CGPA Calculator\bin\Debug\CGPA Calculator.exe.config
+E:\Project\CGPA Calculator\bin\Debug\CGPA Calculator.exe
+E:\Project\CGPA Calculator\bin\Debug\CGPA Calculator.pdb
+E:\Project\CGPA Calculator\obj\Debug\CGPA Calculator.csproj.AssemblyReference.cache
+E:\Project\CGPA Calculator\obj\Debug\CGPA Calculator.csproj.SuggestedBindingRedirects.cache
+E:\Project\CGPA Calculator\obj\Debug\CGPA_Calculator.Form1.resources
+E:\Project\CGPA Calculator\obj\Debug\CGPA_Calculator.Properties.Resources.resources
+E:\Project\CGPA Calculator\obj\Debug\CGPA Calculator.csproj.GenerateResource.cache
+E:\Project\CGPA Calculator\obj\Debug\CGPA Calculator.csproj.CoreCompileInputs.cache
+E:\Project\CGPA Calculator\obj\Debug\CGPA Calculator.exe
+E:\Project\CGPA Calculator\obj\Debug\CGPA Calculator.pdb
