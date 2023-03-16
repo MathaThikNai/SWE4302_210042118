@@ -1,0 +1,52 @@
+C:\Users\mirsa\Documents\VsStudioC#\lab09\bin\Debug\lab09.exe.config
+C:\Users\mirsa\Documents\VsStudioC#\lab09\bin\Debug\lab09.exe
+C:\Users\mirsa\Documents\VsStudioC#\lab09\bin\Debug\lab09.pdb
+C:\Users\mirsa\Documents\VsStudioC#\lab09\obj\Debug\lab09.csproj.AssemblyReference.cache
+C:\Users\mirsa\Documents\VsStudioC#\lab09\obj\Debug\lab09.csproj.SuggestedBindingRedirects.cache
+C:\Users\mirsa\Documents\VsStudioC#\lab09\obj\Debug\lab09.Form1.resources
+C:\Users\mirsa\Documents\VsStudioC#\lab09\obj\Debug\lab09.Properties.Resources.resources
+C:\Users\mirsa\Documents\VsStudioC#\lab09\obj\Debug\lab09.csproj.GenerateResource.cache
+C:\Users\mirsa\Documents\VsStudioC#\lab09\obj\Debug\lab09.csproj.CoreCompileInputs.cache
+C:\Users\mirsa\Documents\VsStudioC#\lab09\obj\Debug\lab09.exe
+C:\Users\mirsa\Documents\VsStudioC#\lab09\obj\Debug\lab09.pdb
+C:\Users\mirsa\Documents\VsStudioC#\lab09\obj\Debug\lab09.Form2.resources
+C:\Users\mirsa\Documents\VsStudioC#\lab09\obj\Debug\lab09.Form3.resources
+E:\Project\SWE4202_210042136\bin\Debug\lab09.exe.config
+E:\Project\SWE4202_210042136\bin\Debug\lab09.exe
+E:\Project\SWE4202_210042136\bin\Debug\lab09.pdb
+E:\Project\SWE4202_210042136\obj\Debug\lab09.csproj.AssemblyReference.cache
+E:\Project\SWE4202_210042136\obj\Debug\lab09.csproj.SuggestedBindingRedirects.cache
+E:\Project\SWE4202_210042136\obj\Debug\lab09.Form1.resources
+E:\Project\SWE4202_210042136\obj\Debug\lab09.Form2.resources
+E:\Project\SWE4202_210042136\obj\Debug\lab09.Form3.resources
+E:\Project\SWE4202_210042136\obj\Debug\lab09.Properties.Resources.resources
+E:\Project\SWE4202_210042136\obj\Debug\lab09.csproj.GenerateResource.cache
+E:\Project\SWE4202_210042136\obj\Debug\lab09.csproj.CoreCompileInputs.cache
+E:\Project\SWE4202_210042136\obj\Debug\lab09.exe
+E:\Project\SWE4202_210042136\obj\Debug\lab09.pdb
+X:\Project\SWE\SWE4202_210042136\bin\Debug\lab09.exe.config
+X:\Project\SWE\SWE4202_210042136\bin\Debug\lab09.exe
+X:\Project\SWE\SWE4202_210042136\bin\Debug\lab09.pdb
+X:\Project\SWE\SWE4202_210042136\obj\Debug\lab09.csproj.AssemblyReference.cache
+X:\Project\SWE\SWE4202_210042136\obj\Debug\lab09.csproj.SuggestedBindingRedirects.cache
+X:\Project\SWE\SWE4202_210042136\obj\Debug\lab09.Form1.resources
+X:\Project\SWE\SWE4202_210042136\obj\Debug\lab09.Form2.resources
+X:\Project\SWE\SWE4202_210042136\obj\Debug\lab09.Form3.resources
+X:\Project\SWE\SWE4202_210042136\obj\Debug\lab09.Properties.Resources.resources
+X:\Project\SWE\SWE4202_210042136\obj\Debug\lab09.csproj.GenerateResource.cache
+X:\Project\SWE\SWE4202_210042136\obj\Debug\lab09.csproj.CoreCompileInputs.cache
+X:\Project\SWE\SWE4202_210042136\obj\Debug\lab09.exe
+X:\Project\SWE\SWE4202_210042136\obj\Debug\lab09.pdb
+X:\Project\SWE4202_210042118\Windows Forms Application Authentication System\bin\Debug\lab09.exe.config
+X:\Project\SWE4202_210042118\Windows Forms Application Authentication System\bin\Debug\lab09.exe
+X:\Project\SWE4202_210042118\Windows Forms Application Authentication System\bin\Debug\lab09.pdb
+X:\Project\SWE4202_210042118\Windows Forms Application Authentication System\obj\Debug\lab09.csproj.AssemblyReference.cache
+X:\Project\SWE4202_210042118\Windows Forms Application Authentication System\obj\Debug\lab09.csproj.SuggestedBindingRedirects.cache
+X:\Project\SWE4202_210042118\Windows Forms Application Authentication System\obj\Debug\lab09.Form1.resources
+X:\Project\SWE4202_210042118\Windows Forms Application Authentication System\obj\Debug\lab09.Form2.resources
+X:\Project\SWE4202_210042118\Windows Forms Application Authentication System\obj\Debug\lab09.Form3.resources
+X:\Project\SWE4202_210042118\Windows Forms Application Authentication System\obj\Debug\lab09.Properties.Resources.resources
+X:\Project\SWE4202_210042118\Windows Forms Application Authentication System\obj\Debug\lab09.csproj.GenerateResource.cache
+X:\Project\SWE4202_210042118\Windows Forms Application Authentication System\obj\Debug\lab09.csproj.CoreCompileInputs.cache
+X:\Project\SWE4202_210042118\Windows Forms Application Authentication System\obj\Debug\lab09.exe
+X:\Project\SWE4202_210042118\Windows Forms Application Authentication System\obj\Debug\lab09.pdb
