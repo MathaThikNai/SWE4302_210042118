@@ -1,0 +1,13 @@
+X:\Project\Student Enrollment Information\Student Enrollment Information\bin\Debug\Student Enrollment Information.exe.config
+X:\Project\Student Enrollment Information\Student Enrollment Information\bin\Debug\Student Enrollment Information.exe
+X:\Project\Student Enrollment Information\Student Enrollment Information\bin\Debug\Student Enrollment Information.pdb
+X:\Project\Student Enrollment Information\Student Enrollment Information\bin\Debug\Guna.UI.dll
+X:\Project\Student Enrollment Information\Student Enrollment Information\obj\Debug\Student Enrollment Information.csproj.AssemblyReference.cache
+X:\Project\Student Enrollment Information\Student Enrollment Information\obj\Debug\Student Enrollment Information.csproj.SuggestedBindingRedirects.cache
+X:\Project\Student Enrollment Information\Student Enrollment Information\obj\Debug\Student_Enrollment_Information.Form1.resources
+X:\Project\Student Enrollment Information\Student Enrollment Information\obj\Debug\Student_Enrollment_Information.Properties.Resources.resources
+X:\Project\Student Enrollment Information\Student Enrollment Information\obj\Debug\Student Enrollment Information.csproj.GenerateResource.cache
+X:\Project\Student Enrollment Information\Student Enrollment Information\obj\Debug\Student Enrollment Information.csproj.CoreCompileInputs.cache
+X:\Project\Student Enrollment Information\Student Enrollment Information\obj\Debug\Student Enrollment Information.csproj.CopyComplete
+X:\Project\Student Enrollment Information\Student Enrollment Information\obj\Debug\Student Enrollment Information.exe
+X:\Project\Student Enrollment Information\Student Enrollment Information\obj\Debug\Student Enrollment Information.pdb
