@@ -1,0 +1,11 @@
+X:\Project\Build a File Manager\Build a File Manager\bin\Debug\Build a File Manager.exe.config
+X:\Project\Build a File Manager\Build a File Manager\bin\Debug\Build a File Manager.exe
+X:\Project\Build a File Manager\Build a File Manager\bin\Debug\Build a File Manager.pdb
+X:\Project\Build a File Manager\Build a File Manager\obj\Debug\Build a File Manager.csproj.AssemblyReference.cache
+X:\Project\Build a File Manager\Build a File Manager\obj\Debug\Build a File Manager.csproj.SuggestedBindingRedirects.cache
+X:\Project\Build a File Manager\Build a File Manager\obj\Debug\Build_a_File_Manager.Form1.resources
+X:\Project\Build a File Manager\Build a File Manager\obj\Debug\Build_a_File_Manager.Properties.Resources.resources
+X:\Project\Build a File Manager\Build a File Manager\obj\Debug\Build a File Manager.csproj.GenerateResource.cache
+X:\Project\Build a File Manager\Build a File Manager\obj\Debug\Build a File Manager.csproj.CoreCompileInputs.cache
+X:\Project\Build a File Manager\Build a File Manager\obj\Debug\Build a File Manager.exe
+X:\Project\Build a File Manager\Build a File Manager\obj\Debug\Build a File Manager.pdb
